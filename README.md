@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-![linkedin](https://github.com/andreamoretti890/andreamoretti890/assets/44377681/d0d57251-a9c3-4a6f-a5c0-b5ea9da9d2b7)(https://www.linkedin.com/in/andreamoretti890/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andreamoretti890/)
 
 ## Skills
 
