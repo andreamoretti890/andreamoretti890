@@ -3,10 +3,10 @@ I'm a dedicated software developer from Italy 🤌🏻, specialising in Dynamics
 With a passion for innovation, I like to stay up-to-date with new technologies.
 
 ## Socials
-<a href="https://www.linkedin.com/in/andreamoretti890/" style="target-decoration:none">
+<a href="https://www.linkedin.com/in/andreamoretti890/">
   <img height="36" width="36" src="https://cdn.simpleicons.org/linkedin" />
 </a>
-<a href="mailto:andrea.moretti890@gmail.com" style="target-decoration:none">
+<a href="mailto:andrea.moretti890@gmail.com">
   <img height="36" width=36" src="https://cdn.simpleicons.org/gmail" />
 </a>
 
