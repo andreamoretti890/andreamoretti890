@@ -3,20 +3,30 @@ I'm a dedicated software developer from Italy 🤌🏻, specialising in Dynamics
 With a passion for innovation, I like to stay up-to-date with new technologies.
 
 ## Socials
-<a href="https://www.linkedin.com/in/andreamoretti890/">
-  <img height="36" width="36" src="https://cdn.simpleicons.org/linkedin" />
-</a>
-<a href="mailto:andrea.moretti890@gmail.com">
-  <img height="36" width=36" src="https://cdn.simpleicons.org/gmail" />
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/andreamoretti890" target="_blank" rel="noopener noreferrer"> <img height="36" width="52" src="https://cdn.simpleicons.org/linkedin" /></a>
+  <a href="mailto:andrea.moretti890@gmail.com" target="_blank" rel="noopener noreferrer"> <img height="36" width=52" src="https://cdn.simpleicons.org/gmail" /></a>
+</div>
 
-## Skill set
+## Tech I use
 
-<img height="36" width="36" src="https://cdn.simpleicons.org/csharp" /> <img height="36" width="36" src="https://cdn.simpleicons.org/dynamics365" /> <img height="36" width="36" src="https://cdn.simpleicons.org/xaml" /> <img height="36" width="36" src="https://cdn.simpleicons.org/javascript" /> <img height="36" width="36" src="https://cdn.simpleicons.org/html5" />
+<div>
+  <img height="40" width="52" src="https://cdn.simpleicons.org/csharp" alt="csharp logo" />
+  <img height="40" width="52" src="https://cdn.simpleicons.org/dynamics365" alt="dynamics365 logo" />
+  <img height="40" width="52" src="https://cdn.simpleicons.org/xaml" alt="xaml logo" />
+  <img height="40" width="52" src="https://cdn.simpleicons.org/javascript" alt="javascript logo" />
+  <img height="40" width="52" src="https://cdn.simpleicons.org/html5" alt="html5 logo" />
+  <img height="40" width="52" src="https://cdn.simpleicons.org/git" alt="git logo" />
+  <img height="40" width="52" src="https://cdn.simpleicons.org/azuredevops" alt="azure devops logo" />
+</div>
 
 ### Databases:
 
-<img height="36" width="36" src="https://cdn.simpleicons.org/microsoftsqlserver" /> <img height="36" width="36" src="https://cdn.simpleicons.org/sqlite" /> <img height="36" width="36" src="https://cdn.simpleicons.org/mongodb" />
+<div>
+  <img height="40" width="52" src="https://cdn.simpleicons.org/microsoftsqlserver" /> 
+  <img height="40" width="52" src="https://cdn.simpleicons.org/sqlite" /> 
+  <img height="40" width="52" src="https://cdn.simpleicons.org/mongodb" />
+</div>
 
 ### 🤓 I'm currently learning:
 
