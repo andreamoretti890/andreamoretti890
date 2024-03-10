@@ -35,4 +35,3 @@ With a passion for innovation, I like to stay up-to-date with new technologies.
 ### 🤔 I want to learn:
 
 * Machine Learning
-* C++
