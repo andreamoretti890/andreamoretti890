@@ -11,22 +11,18 @@ With a passion for innovation, I like to stay up-to-date with new technologies.
 
 ## Tech I use
 
-<div>
-  * C# />
-  * Dynamics 365 F&O (X++)
-  * XAML
-  * Git
-  * Azure DevOps
-  * JS
-  * HTML
-</div>
+* C#
+* Dynamics 365 F&O (X++)
+* XAML
+* Git
+* Azure DevOps
+* JS
+* HTML
 
 ### Databases:
 
-<div>
-  * Microsoft SQL Server
-  * SQL Lite
-</div>
+* Microsoft SQL Server
+* SQL Lite
 
 ### 🤓 I'm currently learning:
 
