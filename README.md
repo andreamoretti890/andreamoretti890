@@ -30,8 +30,4 @@ With a passion for innovation, I like to stay up-to-date with new technologies.
 
 ### 🤓 I'm currently learning:
 
-* Python
-
-### 🤔 I want to learn:
-
-* Machine Learning
+* Swift
