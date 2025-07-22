@@ -11,19 +11,14 @@ With a passion for innovation, I like to stay up-to-date with new technologies.
 
 ## Tech I use
 
+* Swift
 * C#
 * Dynamics 365 F&O (X++)
 * XAML
 * Git
 * Azure DevOps
-* JS
-* HTML
 
 ### Databases:
 
 * Microsoft SQL Server
 * SQL Lite
-
-### 🤓 I'm currently learning:
-
-* Swift
