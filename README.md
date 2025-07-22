@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Andrea!
-I'm a dedicated software developer from Italy 🤌🏻, specialising in Dynamics 365, C#, and .NET MAUI mobile development.
-Studing Swift...
+I'm a dedicated software developer from Italy 🤌🏻, specialising iOS development, with some background in C# and X++.
 With a passion for innovation, I like to stay up-to-date with new technologies.
 
 ## Socials
