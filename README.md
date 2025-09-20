@@ -7,11 +7,11 @@ With a passion for innovation, I like to stay up-to-date with new technologies.
 * Swift
 * C#
 * Dynamics 365 F&O (X++)
-* XAML
+* .NET MAUI
 * Git
 * Azure DevOps
 
 ### Databases:
 
 * Microsoft SQL Server
-* SQL Lite
+* SQLite
