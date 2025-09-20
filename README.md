@@ -10,8 +10,3 @@ With a passion for innovation, I like to stay up-to-date with new technologies.
 * .NET MAUI
 * Git
 * Azure DevOps
-
-### Databases:
-
-* Microsoft SQL Server
-* SQLite
